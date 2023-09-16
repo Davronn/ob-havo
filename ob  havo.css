@@ -1,0 +1,30 @@
+body{
+    background: rgb(0, 136, 255);
+    margin-inline: 500px;
+}
+
+h1{
+    text-align: center;
+    text-transform:unset;
+    background: white;
+    border-radius: 50px;
+
+}
+.box{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 50px 60px;
+    background: white;
+    border-radius: 50px;
+    color: rgb(49, 129, 160);;
+    margin: 220px 0px;
+}
+.rasm{
+    width: 100px;
+    height: 100px;
+}
+
+
+
+
